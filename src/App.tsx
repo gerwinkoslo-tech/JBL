@@ -222,7 +222,7 @@ const Hero = () => {
               The user requested to extract ONLY the central person and remove the background.
             */}
             <img 
-              src="https://drive.google.com/uc?export=view&id=15IDfc8KWt7BwOWNcEikcbWWF7In7uXul"
+              src="https://github.com/gerwinkoslo-tech/JBL/blob/main/IMG_20260329_172120.png"
               alt="Jeremie B. Lumocso" 
               className="w-full h-full object-cover rounded-3xl border border-white/10 shadow-2xl grayscale-[20%] hover:grayscale-0 transition-all duration-500"
               referrerPolicy="no-referrer"
